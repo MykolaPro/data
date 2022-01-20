@@ -1,0 +1,29 @@
+{
+  "products": [
+    {"id": 1,
+      "name": "iPhone 11 Pro",
+      "price": 1200, 
+      "photoUrl": "https://images.unsplash.com/photo-1554744512-d6c603f27c54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVzbGF8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" 
+    },
+    {"id": 2,
+      "name": "iPhone 11",
+      "price": 1100, 
+      "photoUrl": "https://images.unsplash.com/photo-1554744512-d6c603f27c54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVzbGF8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" 
+    },
+    {"id": 3,
+      "name": "iPhone X",
+      "price": 900, 
+      "photoUrl": "https://images.unsplash.com/photo-1554744512-d6c603f27c54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVzbGF8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" 
+    },
+    {"id": 4,
+      "name": "iPhone 8",
+      "price": 700, 
+      "photoUrl": "https://images.unsplash.com/photo-1554744512-d6c603f27c54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVzbGF8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" 
+    },
+    {"id": 5,
+      "name": "iPhone 7",
+      "price": 500, 
+      "photoUrl": "https://images.unsplash.com/photo-1554744512-d6c603f27c54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVzbGF8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" 
+    }
+  ]
+}
